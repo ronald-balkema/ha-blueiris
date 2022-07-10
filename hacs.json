@@ -1,0 +1,6 @@
+{
+  "name": "BlueIris NVR",
+  "iot_class": "Local Polling",
+  "homeassistant": "2022.6.0",
+  "render_readme": true
+}
